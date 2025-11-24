@@ -653,6 +653,9 @@ ul {
     .why-me__title{
         z-index: 1;
     }
+    .header__menu{
+        opacity: 0; 
+    }
 }
 
 @media screen and (max-width: 400px) {
