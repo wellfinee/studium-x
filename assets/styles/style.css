@@ -341,10 +341,12 @@ ul {
     color: var(--dark-color);
 }
 
-.why-me__title {
+.why-me__title{
     font-size: 7vw;
+    text-align: center;
     color: var(--green-color)
 }
+
 
 @media screen and (max-width: 1450px) {
     .header {
